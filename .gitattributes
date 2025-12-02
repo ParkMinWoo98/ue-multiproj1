@@ -1,0 +1,6 @@
+* text=auto
+
+*.h   text working-tree-encoding=UTF-8
+*.hpp text working-tree-encoding=UTF-8
+*.cpp text working-tree-encoding=UTF-8
+*.inl text working-tree-encoding=UTF-8
